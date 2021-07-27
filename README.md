@@ -19,7 +19,7 @@ A little BetterDiscord plugin to get all Discord badges
 
 **MacOS**:  ~/Library/
 
-**Linux**: ˇ~/.config/BetterDiscord/plugins
+**Linux**: ~/.config/BetterDiscord/plugins
 
 3.) Tada!
 
